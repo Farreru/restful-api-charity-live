@@ -1,6 +1,8 @@
 <p align="center"> </p>
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/Farreru/restful-api-charity-live/main/db_design.png" width="400" alt="DB Design"></a></p>
+<p align="left">
+<h2>Design ERD Database Point of Sales</h2>
+<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/Farreru/restful-api-charity-live/main/db_design.png" width="400" alt="DB Design"></a></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
