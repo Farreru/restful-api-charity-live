@@ -2,7 +2,7 @@
 
 <p align="left">
 <h2>Design ERD Database Point of Sales</h2>
-<a href="https://dbdiagram.io/d/Design-Point-of-Sales-65f6ef11ae072629ce368009" target="_blank"><img src="https://raw.githubusercontent.com/Farreru/restful-api-charity-live/main/db_design.png" width="100%" height="70%" alt="DB Design"></a>
+<a href="https://dbdiagram.io/d/Design-Point-of-Sales-65f6ef11ae072629ce368009" target="_blank"><img src="https://raw.githubusercontent.com/Farreru/restful-api-charity-live/main/db_design.png" width="100%" style="height: !important 10rem;" alt="DB Design"></a>
 <a href="https://dbdiagram.io/d/Design-Point-of-Sales-65f6ef11ae072629ce368009" target="_blank">Open dbdiagram.io links</a>
 </p>
 
