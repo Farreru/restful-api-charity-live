@@ -123,7 +123,7 @@ class ProdukController extends Controller
             //code...
 
             $data->delete();
-            return $this->sendResponse([], 'Produk berhasil di hapus');
+        return $this->sendResponse([], 'Produk berhasil di hapus');
         } catch (\Throwable $e) {
             //throw $th;
             return $this->sendError('Error ' . $e->getMessage(), 400);
